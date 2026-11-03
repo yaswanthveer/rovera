@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Raw footage (too large for GitHub; not used by the site)
+source-media/
+
+# Remotion renders (finished copies live in website/assets/video)
+film/out/
+
+# OS / editor
+.DS_Store
+*.log
+.env*
